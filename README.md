@@ -14,7 +14,7 @@ Sub end points are
 
 - `delete/{id}` : Deletes a todo with the specific id
 
-## configuration
+## Configuration
 
 You can specify the server and port with mongodb db name, host and port in the `application.yml` file found in res directory
 
